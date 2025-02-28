@@ -1,6 +1,6 @@
-alert('Welcome Sarthak!');
-confirm('R U Sure Sarthak?');
-console.log('Hello Sarthak!!');
-document.write('Hello Sarthak kaushik!!');
-prompt('Enter your name Sarthak!!');
-// Output: Welcome Sarthak!
+alert('Hello!');
+console.log('Hello Sarthak!');
+confirm('Are you Sarthak?');
+prompt('Please Write your full name:');
+document.write('Hello Sarthak Kaushik!!');
+// output: Hello Sarthak kaushik!!
