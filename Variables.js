@@ -12,6 +12,6 @@ accountEmail = 'hc@hc.com' // Reassigning the value of accountEmail
 //console.log(accountEmail) // It will print the new value of accountEmail
 
 accountPassword = '224'
-accountCity = 'Mumbai'
+accountCity = 'Mumbai' 
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]) // It will print the values of all the variables in a table format
