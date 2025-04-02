@@ -46,4 +46,3 @@ let negValue = -value
 
 console.log(+"");        // When something is empty, it will be converted to 0
 console.log(+"abc");    // When something is not a number, it will be converted to NaN
-
